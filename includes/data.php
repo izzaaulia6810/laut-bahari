@@ -197,28 +197,10 @@ $keunggulan = [
 
 // === GALERI ===
 $galeri = [
-   [
-    'title' => 'Snorkeling di Terumbu Karang',
-    'image' => 'assets/img/images/1.webp',
-],
-    [
-    'title' => 'Bermain pasir putih',
-    'image' => 'assets/img/images/2.webp',
-],
-    [
-    'title' => 'Sunset',
-    'image' => 'assets/img/images/3.webp',
-],
-    [
-    'title' => 'BBQ',
-    'image' => 'assets/img/images/4.webp',
-],
-    [
-    'title' => 'Island hopping',
-    'image' => 'assets/img/images/5.webp',
-],
-    [
-    'title' => 'Banana boat',
-    'image' => 'assets/img/images/6.webp',
-],
+    ['title' => 'Snorkeling di Terumbu Karang', 'image' => 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#0ea5e9'],
+    ['title' => 'Bermain di Pasir Putih', 'image' => 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#f59e0b'],
+    ['title' => 'Sunset di Dermaga', 'image' => 'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#f97316'],
+    ['title' => 'BBQ Malam di Pantai', 'image' => 'https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#ef4444'],
+    ['title' => 'Island Hopping', 'image' => 'https://images.unsplash.com/photo-1500375592092-40eb2168fd21?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#10b981'],
+    ['title' => 'Banana Boat Seru', 'image' => 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?fit=crop&w=1200&q=82&fm=jpg', 'color' => '#8b5cf6'],
 ];
